@@ -10,4 +10,8 @@
         <description>Created after removal of "Control Flow in Dart" from Help Instance</description>
         <accepts>Control-Flow-in-Dart.html</accepts>
     </rule>
+    <rule id="4f51a7b">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
 </rules>
