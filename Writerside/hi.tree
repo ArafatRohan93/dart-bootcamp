@@ -6,6 +6,7 @@
                   name="Dart Bootcamp"
                   start-page="Dart-Language-Overview.md">
 
+    <toc-element topic="OOP-in-Dart.md"/>
     <toc-element topic="Operators-in-Dart.md"/>
     <toc-element topic="Dart-Language-Overview.md" accepts-web-file-names-ref="4f51a7b"/>
     <toc-element topic="Identifiers-in-Dart.md"/>
